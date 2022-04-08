@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/group_task_by_pos"
+        android:title="Group task by POS"/>
+
+    <item
+        android:id="@+id/group_task_by_bit"
+        android:title="Group task by BIT" />
+
+</menu>

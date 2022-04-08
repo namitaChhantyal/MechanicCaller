@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TradeThrust</string>
+    <string name="username_textview">Email</string>
+    <string name="password_textview">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_task">TASKS</string>
+    <string name="title_form_create">NEW POS</string>
+    <string name="title_search">SEARCH</string>
+    <string name="title_notification">NOTIFICATION</string>
+    <string name="title_account">ACCOUNT</string>
+
+    <string name="company_name_textview">Company Name</string>
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_password_textview">Re-type password</string>
+    <string name="reload">Reload</string>
+
+</resources>

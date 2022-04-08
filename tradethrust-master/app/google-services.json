@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1028113873186",
+    "firebase_url": "https://tradethrust-d2da1.firebaseio.com",
+    "project_id": "tradethrust-d2da1",
+    "storage_bucket": "tradethrust-d2da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028113873186:android:4ad94a835ae0bb52",
+        "android_client_info": {
+          "package_name": "com.codebee.tradethrust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028113873186-d8kkmjit51ns4jmfgafokdjb9h0np56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zz3lYx5aRNSy9JA7dk02qjMsljilZ10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
